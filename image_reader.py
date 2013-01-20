@@ -12,3 +12,6 @@ class ImageReader():
 
   def getColorAt(self, x, y):
     return self.pix[x,y]
+
+  def show(self):
+    self.im.show()
