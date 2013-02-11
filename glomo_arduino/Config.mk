@@ -1,0 +1,4 @@
+BOARD_TAG    = uno
+ARDUINO_PORT = /dev/ttyACM3
+MCU=atmega328
+AVRDUDE_CHIPSET=m328p
